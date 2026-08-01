@@ -13,7 +13,7 @@ controls, assessing gaps, and recommending remediation steps.
 ## 📁 Contents
 - `spreadsheets/UrbanCart-Compliance-Matrix.xlsx` – Asset list + 12 mapped
   ISO 27001 controls with status, ownership, and remediation actions
-- `docs/UrbanCart-Compliance-Summary.pdf` – 1-page written gap analysis
+- `Docs/UrbanCart-ISO27001-Compliance-Summary.pdf` – 1-page written gap analysis
   and recommendations
 
 ## 🔍 Key Findings
